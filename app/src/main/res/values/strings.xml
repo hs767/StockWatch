@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="stocksymbol" />
+    <string name="company" />
+    <string name="AddStock" />
+    <string name="stocksymboledit" />
+</resources>
